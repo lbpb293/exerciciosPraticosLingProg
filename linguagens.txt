@@ -1,2 +1,3 @@
 Algumas das linguagens de Programação que conheço:
 C++
+JavaScript

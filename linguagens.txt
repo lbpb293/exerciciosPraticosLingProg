@@ -1,4 +1,4 @@
 Algumas das linguagens de Programação que conheço:
 C++
-JavaScriptTypeScript
- TypeScript
+JavaScript
+TypeScript
